@@ -1,5 +1,4 @@
-// Fantasy Map Generator main script
-// Azgaar (azgaar.fmg@yandex.by). Minsk, 2017-2019
+// MOD Fantasy Map Generator main script
 // https://github.com/Azgaar/Fantasy-Map-Generator
 // MIT License
 
